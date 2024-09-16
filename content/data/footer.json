@@ -4,7 +4,7 @@
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "A description of your brand",
+    "text": "computechsolutions\n",
     "primaryLinks": {
         "title": "Product",
         "links": [
@@ -103,7 +103,7 @@
             "type": "Link"
         }
     ],
-    "copyrightText": "Powered by [Netlify Create](https://www.netlify.com/platform/create/)",
+    "copyrightText": "Powered by computechsolutions\n",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
 }

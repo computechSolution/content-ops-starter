@@ -1,22 +1,25 @@
 {
     "logo": {
-        "url": "/images/logo-dark.svg",
+        "url": "/images/favicon.svg",
         "altText": "Logo dark",
         "styles": {
             "self": {
-                "margin": ["mr-3"]
+                "margin": [
+                    "mr-3"
+                ]
             }
         },
         "type": "ImageBlock"
     },
     "primaryLinks": [
         {
-            "label": "Pricing",
+            "label": "home",
             "url": "/pricing",
-            "icon": "arrowRight",
+            "icon": "",
             "iconPosition": "right",
             "style": "secondary",
-            "type": "Link"
+            "type": "Link",
+            "showIcon": true
         },
         {
             "label": "Blog",
