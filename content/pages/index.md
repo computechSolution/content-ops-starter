@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Your Guide
+      text: Your Guide To Sofware Issues
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
