@@ -44,7 +44,7 @@ sections:
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
           type: ImageBlock
-          url: /images/abstract-feature2.svg
+          url: /images/WhatsApp Image 2024-09-18 at 21.02.35_60dd50b9.jpg
           altText: Background alt text
           styles:
             self:
