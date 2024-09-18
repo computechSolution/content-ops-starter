@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Featured items section subtitle
+    subtitle: Featured Services
     items:
       - type: FeaturedItem
         title: One To One Video call
