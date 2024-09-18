@@ -108,7 +108,7 @@ sections:
       subtitle:
         textAlign: center
 slug: empty
-isDraft: false
+isDraft: true
 seo:
   type: Seo
   metaTitle: Landing Page
