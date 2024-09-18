@@ -22,7 +22,7 @@
             "showIcon": true
         },
         {
-            "label": "JOIN",
+            "label": "join",
             "altText": "Blog",
             "url": "/blog",
             "icon": "arrowRight",
