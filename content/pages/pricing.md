@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Featured items section subtitle
+    subtitle: Featured Services
     items:
       - type: FeaturedItem
         title: One To One Video call
@@ -20,7 +20,7 @@ sections:
           Follow the tutorial to build your first Netlify Create site.
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/e4.jpg
           altText: Background alt text
           styles:
             self:
@@ -44,7 +44,7 @@ sections:
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
           type: ImageBlock
-          url: /images/abstract-feature2.svg
+          url: /images/WhatsApp Image 2024-09-18 at 21.02.35_60dd50b9.jpg
           altText: Background alt text
           styles:
             self:
@@ -68,7 +68,7 @@ sections:
           Learn from the tutorial and build your first awesome Netlify site.
         image:
           type: ImageBlock
-          url: /images/abstract-feature3.svg
+          url: /images/e3.jpg
           altText: Background alt text
           styles:
             self:
